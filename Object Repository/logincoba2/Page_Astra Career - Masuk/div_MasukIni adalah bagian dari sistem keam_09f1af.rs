@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MasukIni adalah bagian dari sistem keam_09f1af</name>
+   <tag></tag>
+   <elementGuidId>fab55441-1f86-4c08-9712-90dd061ef7b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-eqIVtm.iylmTi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='career-main-container']/main/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4b807b10-e01c-4f04-ac1a-843934b2377b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eqIVtm iylmTi</value>
+      <webElementGuid>7177b4c8-d895-4d2e-9ba4-315a1e8e3f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MasukIni adalah bagian dari sistem keamanan kami, Anda harus memberikan beberapa detil informasi untuk dapat mengakses situs ini. Ingat Saya Lupa SandiMasukEmail atau kata sandi tidak validFacebookGoogleTidak punya akun? Buat Akun</value>
+      <webElementGuid>9b048758-775f-40c9-bb2f-72f8e6f5ae1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;career-main-container&quot;)/main[@class=&quot;isomorphicContent ant-layout-content&quot;]/div[1]/div[@class=&quot;sc-kAzzGY idHZcR isoLayoutContentWrapper&quot;]/div[@class=&quot;sc-chPdSV eAblcU&quot;]/div[@class=&quot;sc-fBuWsC cyWUiq&quot;]/div[@class=&quot;sc-eqIVtm iylmTi&quot;]</value>
+      <webElementGuid>642fb68a-10b3-411a-a111-ea0a5b917987</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='career-main-container']/main/div/div/div/div/div</value>
+      <webElementGuid>da8240ae-027f-4d08-a050-2a1b9048a1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/following::div[6]</value>
+      <webElementGuid>e3be01d4-5fe4-4db2-aca2-066f254631ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Sandi'])[1]/following::div[6]</value>
+      <webElementGuid>9549bd72-f624-4eb1-8aa9-f4aa64a8a646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div</value>
+      <webElementGuid>d206f52b-bf31-4430-bc43-c05b57ded6d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MasukIni adalah bagian dari sistem keamanan kami, Anda harus memberikan beberapa detil informasi untuk dapat mengakses situs ini. Ingat Saya Lupa SandiMasukEmail atau kata sandi tidak validFacebookGoogleTidak punya akun? Buat Akun' or . = 'MasukIni adalah bagian dari sistem keamanan kami, Anda harus memberikan beberapa detil informasi untuk dapat mengakses situs ini. Ingat Saya Lupa SandiMasukEmail atau kata sandi tidak validFacebookGoogleTidak punya akun? Buat Akun')]</value>
+      <webElementGuid>e3078e0f-4948-463a-804d-5cfb5c335613</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

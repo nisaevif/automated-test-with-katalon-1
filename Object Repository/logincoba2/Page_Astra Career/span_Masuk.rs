@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Masuk</name>
+   <tag></tag>
+   <elementGuidId>93ffa220-69a6-411d-a2c1-9ba6f8dd93fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/section/div/header/div/div[3]/div/div[2]/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a6a706bb-ccd0-40a9-ac0a-c95210c38f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>557a803d-77ee-4dde-8099-78832cecfa01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-cSHVUG bYrQQw&quot;]/div[1]/div[@class=&quot;sc-htoDjs hSQtYB&quot;]/section[@class=&quot;ant-layout&quot;]/div[@class=&quot;sc-bdVaJa dwLHOt&quot;]/header[@class=&quot;isomorphicTopbar collapsed ant-layout-header&quot;]/div[@class=&quot;ant-row-flex ant-row-flex-space-between&quot;]/div[@class=&quot;ant-col lang-and-profile-menu-container&quot;]/div[@class=&quot;ant-row-flex desktop-right-button-menu-container&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;sc-bwzfXH hPUAkQ&quot;]/a[1]/span[1]</value>
+      <webElementGuid>45bd2bc8-9e98-4e8c-b106-383d35b4c883</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/section/div/header/div/div[3]/div/div[2]/div/a/span</value>
+      <webElementGuid>f9499a19-b9bb-40c7-a4fe-039c3983d498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::span[1]</value>
+      <webElementGuid>4b68786b-83ac-4fb5-8d8a-2d534c77f73f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/following::span[2]</value>
+      <webElementGuid>c761617f-58b9-4b46-a7a0-b43e3db3069c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::span[1]</value>
+      <webElementGuid>6797f157-8596-4b45-87fd-b97cccb628a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::span[1]</value>
+      <webElementGuid>a26eae84-9c00-4510-861a-e1847e60fa2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk']/parent::*</value>
+      <webElementGuid>0bc52d13-84b1-410f-89f5-61b3e8234786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>72eb3279-a04a-4ce4-ac4a-cd308ebad5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>c8408d58-1c49-43ac-a04e-99ca433f5f02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
